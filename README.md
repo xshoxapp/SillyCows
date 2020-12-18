@@ -1,9 +1,9 @@
 # PRIVACY POLICY
 
-XshoX, s.r.o. built the Mad Cows app as an Ad Supported app. This SERVICE is provided by XshoX, s.r.o. at no cost and is intended for use as is.
+XshoX, s.r.o. built the Silly Cows app as an Ad Supported app. This SERVICE is provided by XshoX, s.r.o. at no cost and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mad Cows unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Silly Cows unless otherwise defined in this Privacy Policy.
 
 # Information Collection and Use
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Data We are collecting are either provided by You or collected automatically, Data that You provide during registration, Data that You provide for the billing of goods and services requiring payment, Data about Your game progress, Data about your virtual purchases (how many and what is purchased with in-game coins - not real money). The information that we request will be retained by us and used as described in this privacy policy.
